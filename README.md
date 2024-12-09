@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maryhiamme
+- 👋 Hi, I’m @mariam
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning coding and javascript
 - 💞️ I’m looking to collaborate on assignments and projects
